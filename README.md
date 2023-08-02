@@ -1,4 +1,5 @@
 # Random-geometry-creation-script
+Codes written by Zefu Li.
 Based on COMSOL Livelink for MATLAB
 
 MATLAB .m files should be opened before use COMSOL Multiphysics 5.6 with MATLAB external interface.
