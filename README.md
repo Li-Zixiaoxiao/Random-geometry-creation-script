@@ -24,7 +24,7 @@ Origin image && After geometry modification
 
 ![image](https://github.com/Li-Zixiaoxiao/Random-geometry-creation-script/blob/main/images/05%203D.png)![image](https://github.com/Li-Zixiaoxiao/Random-geometry-creation-script/blob/main/images/06%203D%20Crop.png)
 
-——————————————————————————————————————————————————————
+—————————————————————————————————————————————————
 
 Zefu Li（李泽夫）
 
